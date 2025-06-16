@@ -10,5 +10,5 @@ Jest · Cypress · Docker · GitLab · CI/CD · Agile
 
 ## Contact
 
-📧 [angeliss1082@gmail.com](mailto:angeliss1082@gmail.com)  
+📧 [izalith_lol@hotmail.com](mailto:izalith_lol@hotmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/angel-isaac-vazquez-va)
