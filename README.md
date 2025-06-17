@@ -30,7 +30,8 @@ CSS · Redux · Cypress · Docker · GitLab · CI/CD · Agile/Scrum
 
 ## 📬 Contact
 
-📧 [izalith_lol@hotmail.com](mailto:izalith_lol@hotmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/angel-isaac-vazquez-valadez-14875a198/)
+- Email: izalith_lol@hotmail.com  
+- LinkedIn: [Angel Isaac Vázquez](https://www.linkedin.com/in/angel-isaac-vazquez-valadez-14875a198)
+- GitHub: [Isaacsmile1082](https://github.com/Isaacsmile1082)
 
 ---
